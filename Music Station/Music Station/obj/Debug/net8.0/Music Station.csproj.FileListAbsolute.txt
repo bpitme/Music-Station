@@ -1,0 +1,31 @@
+C:\Users\neelbhudia\Desktop\Music station\Music Station\Music Station\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\neelbhudia\Desktop\Music station\Music Station\Music Station\bin\Debug\net8.0\appsettings.json
+C:\Users\neelbhudia\Desktop\Music station\Music Station\Music Station\bin\Debug\net8.0\Music Station.staticwebassets.runtime.json
+C:\Users\neelbhudia\Desktop\Music station\Music Station\Music Station\bin\Debug\net8.0\Music Station.exe
+C:\Users\neelbhudia\Desktop\Music station\Music Station\Music Station\bin\Debug\net8.0\Music Station.deps.json
+C:\Users\neelbhudia\Desktop\Music station\Music Station\Music Station\bin\Debug\net8.0\Music Station.runtimeconfig.json
+C:\Users\neelbhudia\Desktop\Music station\Music Station\Music Station\bin\Debug\net8.0\Music Station.dll
+C:\Users\neelbhudia\Desktop\Music station\Music Station\Music Station\bin\Debug\net8.0\Music Station.pdb
+C:\Users\neelbhudia\Desktop\Music station\Music Station\Music Station\obj\Debug\net8.0\Music Station.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neelbhudia\Desktop\Music station\Music Station\Music Station\obj\Debug\net8.0\Music Station.AssemblyInfoInputs.cache
+C:\Users\neelbhudia\Desktop\Music station\Music Station\Music Station\obj\Debug\net8.0\Music Station.AssemblyInfo.cs
+C:\Users\neelbhudia\Desktop\Music station\Music Station\Music Station\obj\Debug\net8.0\Music Station.csproj.CoreCompileInputs.cache
+C:\Users\neelbhudia\Desktop\Music station\Music Station\Music Station\obj\Debug\net8.0\Music Station.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\neelbhudia\Desktop\Music station\Music Station\Music Station\obj\Debug\net8.0\Music Station.RazorAssemblyInfo.cache
+C:\Users\neelbhudia\Desktop\Music station\Music Station\Music Station\obj\Debug\net8.0\Music Station.RazorAssemblyInfo.cs
+C:\Users\neelbhudia\Desktop\Music station\Music Station\Music Station\obj\Debug\net8.0\Music Station.sourcelink.json
+C:\Users\neelbhudia\Desktop\Music station\Music Station\Music Station\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\neelbhudia\Desktop\Music station\Music Station\Music Station\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\neelbhudia\Desktop\Music station\Music Station\Music Station\obj\Debug\net8.0\staticwebassets\msbuild.Music Station.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\neelbhudia\Desktop\Music station\Music Station\Music Station\obj\Debug\net8.0\staticwebassets\msbuild.build.Music Station.props
+C:\Users\neelbhudia\Desktop\Music station\Music Station\Music Station\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Music Station.props
+C:\Users\neelbhudia\Desktop\Music station\Music Station\Music Station\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Music Station.props
+C:\Users\neelbhudia\Desktop\Music station\Music Station\Music Station\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\neelbhudia\Desktop\Music station\Music Station\Music Station\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\neelbhudia\Desktop\Music station\Music Station\Music Station\obj\Debug\net8.0\scopedcss\bundle\Music Station.styles.css
+C:\Users\neelbhudia\Desktop\Music station\Music Station\Music Station\obj\Debug\net8.0\scopedcss\projectbundle\Music Station.bundle.scp.css
+C:\Users\neelbhudia\Desktop\Music station\Music Station\Music Station\obj\Debug\net8.0\Music Station.dll
+C:\Users\neelbhudia\Desktop\Music station\Music Station\Music Station\obj\Debug\net8.0\refint\Music Station.dll
+C:\Users\neelbhudia\Desktop\Music station\Music Station\Music Station\obj\Debug\net8.0\Music Station.pdb
+C:\Users\neelbhudia\Desktop\Music station\Music Station\Music Station\obj\Debug\net8.0\Music Station.genruntimeconfig.cache
+C:\Users\neelbhudia\Desktop\Music station\Music Station\Music Station\obj\Debug\net8.0\ref\Music Station.dll
