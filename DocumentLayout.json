@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\neelbhudia\\Desktop\\Music station\\Music Station\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6F761B-83D9-4053-9CE2-6B4385A51736}|Music Station\\Music Station.csproj|c:\\users\\neelbhudia\\desktop\\music station\\music station\\music station\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A6F761B-83D9-4053-9CE2-6B4385A51736}|Music Station\\Music Station.csproj|solutionrelative:music station\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6F761B-83D9-4053-9CE2-6B4385A51736}|Music Station\\Music Station.csproj|c:\\users\\neelbhudia\\desktop\\music station\\music station\\music station\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8A6F761B-83D9-4053-9CE2-6B4385A51736}|Music Station\\Music Station.csproj|solutionrelative:music station\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6F761B-83D9-4053-9CE2-6B4385A51736}|Music Station\\Music Station.csproj|c:\\users\\neelbhudia\\desktop\\music station\\music station\\music station\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8A6F761B-83D9-4053-9CE2-6B4385A51736}|Music Station\\Music Station.csproj|solutionrelative:music station\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\neelbhudia\\Desktop\\Music station\\Music Station\\Music Station\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Music Station\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\neelbhudia\\Desktop\\Music station\\Music Station\\Music Station\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Music Station\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-27T23:57:20.5Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\neelbhudia\\Desktop\\Music station\\Music Station\\Music Station\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Music Station\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\neelbhudia\\Desktop\\Music station\\Music Station\\Music Station\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Music Station\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-27T23:34:40.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\neelbhudia\\Desktop\\Music station\\Music Station\\Music Station\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Music Station\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\neelbhudia\\Desktop\\Music station\\Music Station\\Music Station\\Pages\\Index.cshtml*",
+              "RelativeToolTip": "Music Station\\Pages\\Index.cshtml*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T23:25:35.869Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
